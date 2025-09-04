@@ -18,7 +18,7 @@ pip install beautifulsoup4
 ### 2. 执行脚本
 
 ```
-python mail2csv.py email.txt
+python email2csv.py email.txt
 ```
 
 运行成功后，会自动生成一个名为 `email_output.csv` 的文件。
